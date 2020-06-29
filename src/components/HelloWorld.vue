@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <div>增加了修改</div>
     <p>
       / customize this project,
       <br />check out the
